@@ -25,7 +25,7 @@ Map integration (Mapbox)
 3D parking visualization
 
 3. Tech Stack
-   <br>
+
 Frontend: React + TypeScript
 <br>
 Backend: Node.js + Express
