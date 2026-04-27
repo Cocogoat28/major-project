@@ -25,17 +25,25 @@ Map integration (Mapbox)
 3D parking visualization
 
 3. Tech Stack
+   <br>
 Frontend: React + TypeScript
+<br>
 Backend: Node.js + Express
+<br>
 Database: MongoDB + Mongoose
+<br>
 Other: Firebase, Cloudinary, Razorpay, JWT
 
 4. How It Works
    
 User searches nearby parking spaces
+<br>
 System shows available slots in real-time
+<br>
 User selects slot and time
+<br>
 Booking is confirmed after payment
+<br>
 Notifications are sent to user and provider
 
 5. Future Improvements
