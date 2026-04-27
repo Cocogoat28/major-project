@@ -9,12 +9,19 @@ Urban areas face heavy traffic due to limited parking and inefficient manual sys
 2. Features
    
 Real-time parking search using geolocation
+<br>
 Slot availability and booking system
+<br>
 Secure online payments (Razorpay)
+<br>
 JWT-based authentication and role-based access
+<br>
 KYC verification for parking owners
+<br>
 Real-time notifications (Firebase)
+<br>
 Map integration (Mapbox)
+<br>
 3D parking visualization
 
 3. Tech Stack
@@ -40,5 +47,7 @@ Performance optimization and scaling
 6. Outcome
    
 Reduced parking search time
+<br>
 Improved booking efficiency
+<br>
 Scalable and secure system architecture
